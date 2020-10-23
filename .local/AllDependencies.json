@@ -1600,11 +1600,11 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "gittest",
-      "projectName": "gittest",
-      "projectPath": "Z:\\My Drive\\L14864 XAML files\\Pritha's folder\\gittest\\.local",
+      "projectUniqueName": "test23",
+      "projectName": "test23",
+      "projectPath": "Z:\\My Drive\\L14864 XAML files\\Pritha's folder\\test23\\.local",
       "packagesPath": "C:\\Users\\dev3nmat\\.nuget\\packages\\",
-      "outputPath": "Z:\\My Drive\\L14864 XAML files\\Pritha's folder\\gittest\\.local"
+      "outputPath": "Z:\\My Drive\\L14864 XAML files\\Pritha's folder\\test23\\.local"
     },
     "frameworks": {
       "net461": {
